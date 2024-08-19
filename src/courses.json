@@ -1,0 +1,483 @@
+[
+  {
+    "id": "01:640:001.0",
+    "name": "COMPUTATIONAL SKILLS",
+    "credits": "1.5"
+  },
+  {
+    "id": "01:640:025.1",
+    "name": "ELEMENTARY ALGEBRA",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:026.2",
+    "name": "INTERMEDIATE ALGEBRA",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:103.3",
+    "name": "TOPICS IN MATHEMATICS FOR THE LIBERAL ARTS",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:104.4",
+    "name": "INTRODUCTION TO PROBABILITY",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:106.5",
+    "name": "MATHEMATICS OF MONEY",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:107.6",
+    "name": "NUMBER AND OPERATION FOR K-8 TEACHING",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:111.7",
+    "name": "PRECALCULUS PART I",
+    "credits": "2"
+  },
+  {
+    "id": "01:640:112.8",
+    "name": "PRECALCULUS PART II",
+    "credits": "2"
+  },
+  {
+    "id": "01:640:115.9",
+    "name": "PRECALCULUS COLLEGE MATHEMATICS",
+    "credits": "4"
+  },
+  {
+    "id": "01:640:125.10",
+    "name": "METHODS OF MATHEMATICAL PROBLEM SOLVING",
+    "credits": "2"
+  },
+  {
+    "id": "01:640:130.11",
+    "name": "BUSINESS CALCULUS",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:135.12",
+    "name": "CALCULUS I FOR THE LIFE AND SOCIAL SCIENCES",
+    "credits": "4"
+  },
+  {
+    "id": "01:640:151.13",
+    "name": "CALCULUS I FOR MATHEMATICAL AND PHYSICAL SCIENCES",
+    "credits": "4"
+  },
+  {
+    "id": "01:640:152.14",
+    "name": "CALCULUS FOR MATHEMATICAL AND PHYSICAL SCIENCES",
+    "credits": "4"
+  },
+  {
+    "id": "01:640:157.15",
+    "name": "CALC I MAT/PHY PRAC",
+    "credits": "1"
+  },
+  {
+    "id": "01:640:158.16",
+    "name": "CALC II MAT/PHY PRAC",
+    "credits": "1"
+  },
+  {
+    "id": "01:640:244.17",
+    "name": "DIFFERENTIAL EQUATIONS FOR ENGINEERING AND PHYSICS",
+    "credits": "4"
+  },
+  {
+    "id": "01:640:250.18",
+    "name": "INTRO LINEAR ALGEBRA",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:251.19",
+    "name": "MULTIVARIABLE CALCULUS",
+    "credits": "4"
+  },
+  {
+    "id": "01:640:252.20",
+    "name": "ELEMENTARY DIFFERENTIAL EQUATIONS",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:285.21",
+    "name": "INTRODUCTION TO INTEREST THEORY FOR ACTUARIAL SCIENCE",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:291.22",
+    "name": "HONORS CALCULUS III",
+    "credits": "4"
+  },
+  {
+    "id": "01:640:300.23",
+    "name": "INTRO MATH REASONING",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:311.24",
+    "name": "INTRODUCTION TO REAL ANALYSIS I",
+    "credits": "4"
+  },
+  {
+    "id": "01:640:321.25",
+    "name": "INTRO APPLIED MATH",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:325.26",
+    "name": "FOUNDATIONS OF QUANTUM MECHANICS",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:336.27",
+    "name": "DYNAM MODELS BIO",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:350.28",
+    "name": "LINEAR ALGEBRA",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:351.29",
+    "name": "INTRODUCTION TO ABSTRACT ALGEBRA I",
+    "credits": "4"
+  },
+  {
+    "id": "01:640:354.30",
+    "name": "LINEAR OPTIMIZATION",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:356.31",
+    "name": "THEORY OF NUMBERS",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:361.32",
+    "name": "SET THEORY",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:373.33",
+    "name": "NUMERICAL ANALYSIS I",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:411.34",
+    "name": "MATH ANALYSIS I",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:421.35",
+    "name": "ADVANCED CALCULUS FOR ENGINEERING",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:423.36",
+    "name": "ELEM PRTL DIFF EQTNS",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:428.37",
+    "name": "GRAPH THEORY",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:435.38",
+    "name": "GEOMETRY",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:437.39",
+    "name": "HISTORY OF MATHEMATICS",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:441.40",
+    "name": "INTRO TOPOLOGY I",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:451.41",
+    "name": "ABSTRACT ALGEBRA I",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:454.42",
+    "name": "COMBINATORIAL THEORY",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:477.43",
+    "name": "MATHEMATICAL THEORY OF PROBABILITY",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:478.44",
+    "name": "INTRODUCTION TO STOCHASTIC PROCESSES",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:481.45",
+    "name": "MATH THEORY STAT",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:485.46",
+    "name": "INTRO MATH FINANCE",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:486.47",
+    "name": "MATHEMATICS OF LIFE CONTINGENT RISK MODELS I",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:491.48",
+    "name": "UNDERGRADUATE MATHEMATICS SEMINAR",
+    "credits": "1"
+  },
+  {
+    "id": "01:640:493.49",
+    "name": "INDIVIDUAL STUDY IN MATHEMATICS",
+    "credits": "null"
+  },
+  {
+    "id": "01:640:494.50",
+    "name": "INDEP STUDY IN MATH",
+    "credits": "null"
+  },
+  {
+    "id": "01:640:496.51",
+    "name": "RESEARCH IN MATH",
+    "credits": "3"
+  },
+  {
+    "id": "01:640:497.52",
+    "name": "HONORS IN MATH",
+    "credits": "3"
+  },
+  {
+    "id": "01:198:105.0",
+    "name": "GREAT INSIGHTS IN COMPUTER SCIENCE",
+    "credits": "3"
+  },
+  {
+    "id": "01:198:107.1",
+    "name": "COMPUTING FOR MATH AND THE SCIENCES",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:110.2",
+    "name": "PRINCIPLES OF COMPUTER SCIENCE",
+    "credits": "3"
+  },
+  {
+    "id": "01:198:111.3",
+    "name": "INTRO COMPUTER SCI",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:112.4",
+    "name": "DATA STRUCTURES",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:142.5",
+    "name": "DATA 101",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:170.6",
+    "name": "COMPUTER APPLICATIONS FOR BUSINESS",
+    "credits": "3"
+  },
+  {
+    "id": "01:198:205.7",
+    "name": "INTRODUCTION TO DISCRETE STRUCTURES I",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:206.8",
+    "name": "INTRODUCTION TO DISCRETE STRUCTURES II",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:210.9",
+    "name": "DATA MANAGEMENT FOR DATA SCIENCE",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:211.10",
+    "name": "COMPUTER ARCHITECTURE",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:213.11",
+    "name": "SOFTWARE METHODOLOGY",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:214.12",
+    "name": "SYSTEMS PROGRAMMING",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:294.13",
+    "name": "INDEP STUDY COMP SCI",
+    "credits": "1"
+  },
+  {
+    "id": "01:198:310.14",
+    "name": "DATA SCIENCE CAPSTONE PROJECT",
+    "credits": "1"
+  },
+  {
+    "id": "01:198:314.15",
+    "name": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:323.16",
+    "name": "NUMER ANAL COMPUTING",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:336.17",
+    "name": "PRINCIPLES OF INFORMATION AND DATA MANAGEMENT",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:344.18",
+    "name": "DESIGN AND ANALYSIS OF COMPUTER ALGORITHMS",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:352.19",
+    "name": "INTERNET TECHNOLOGY",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:416.20",
+    "name": "OPERATING SYSTEMS DESIGN",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:419.21",
+    "name": "COMPUTER SECURITY",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:439.22",
+    "name": "INTRODUCTION TO DATA SCIENCE",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:440.23",
+    "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:460.24",
+    "name": "INTRODUCTION TO COMPUTATIONAL ROBOTICS",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:461.25",
+    "name": "MACHINE LEARNING PRINCIPLES",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:462.26",
+    "name": "INTRODUCTION TO DEEP LEARNING",
+    "credits": "4"
+  },
+  {
+    "id": "01:198:493.27",
+    "name": "INDEPENDENT STUDY IN COMPUTER SCIENCE",
+    "credits": "null"
+  },
+  {
+    "id": "01:960:211.0",
+    "name": "STATISTICS I",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:212.1",
+    "name": "STATISTICS II",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:285.2",
+    "name": "INTRO STAT FOR BUS",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:291.3",
+    "name": "STATISTICAL INFERENCE FOR DATA SCIENCE",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:295.4",
+    "name": "DATA MANAGEMENT AND WRANGLING WITH R",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:365.5",
+    "name": "INTRODUCTION TO BAYESIAN DATA ANALYSIS",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:379.6",
+    "name": "BASIC PROB AND STAT",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:381.7",
+    "name": "THEORY OF PROBABILTY",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:384.8",
+    "name": "INTRMD STAT ANALYSIS",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:390.9",
+    "name": "INTRO COMP STAT",
+    "credits": "1"
+  },
+  {
+    "id": "01:960:401.10",
+    "name": "BASIC STATISTICS FOR RESEARCH",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:463.11",
+    "name": "REGRESSION METHODS",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:484.12",
+    "name": "BASIC APPLIED STATISTICS",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:486.13",
+    "name": "APPLIED STATISTICAL LEARNING",
+    "credits": "3"
+  },
+  {
+    "id": "01:960:495.14",
+    "name": "INDEPENDENT STUDIES IN STATISTICS",
+    "credits": "3"
+  }
+]
+
