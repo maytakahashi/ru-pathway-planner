@@ -1,5 +1,5 @@
 <script>
-    import catalog from '/Users/maytakahashi/Desktop/schedule-project/src/courses.json';
+    import catalog from '../courses.json';
     
     /**
 	 * @param {string | null} id

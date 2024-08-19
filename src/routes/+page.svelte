@@ -1,8 +1,8 @@
 <script>
-    import Header from '/Users/maytakahashi/Desktop/schedule-project/src/lib/Header.svelte';
-    import Links from '/Users/maytakahashi/Desktop/schedule-project/src/lib/Links.svelte';
-    import Degrees from '/Users/maytakahashi/Desktop/schedule-project/src/lib/SelectedDegrees.svelte';
-    import Table from '/Users/maytakahashi/Desktop/schedule-project/src/lib/Table.svelte';
+    import Header from '../lib/Header.svelte';
+    import Links from '../lib/Links.svelte';
+    import Degrees from '../lib/SelectedDegrees.svelte';
+    import Table from '../lib/Table.svelte';
 
     let selectedPage = "1";
 </script>
