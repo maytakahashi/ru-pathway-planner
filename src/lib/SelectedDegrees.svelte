@@ -50,14 +50,19 @@
     main{
         padding: 5%;
         margin: 5%;
-        border-style: solid;
         height: 350px;
+        background-color: #c3d7de;
+        color: #2B2D42;
     }
     ol {
-        color: white;
+        color: #EDF2F4;
         margin: 0%;
         padding: 0% 0% 15%;
         list-style-type: none;
+    }
+    li{
+        padding: 2%;
+        color: #54647f;
     }
     h3 {
         margin: 0% 0% 7%;
@@ -65,6 +70,6 @@
     .buttons{
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        justify-content: flex-end;
     }
 </style>

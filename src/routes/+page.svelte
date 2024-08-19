@@ -7,12 +7,11 @@
     let selectedPage = "1";
 </script>
 
-
 <main>
-    <div class="head">
+    <div class="top">
         <Header/>
     </div>
-    <div class="body">
+    <div class="bottom">
         <div class="left-panel">
             <Table />
         </div>
@@ -28,20 +27,22 @@
 <style>
     main {
         border-style: dashed;
-        font-family: "Comic Sans MS", cursive, sans-serif;
-        background-color: black;
-        color: #84c754;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: #2b2d42;
+        color: #edf2f4; 
     }
 
-    .head {
+    .top {
         border-style: solid;
+        border-color: #8d99ae;
     }
 
-    .body {
+    .bottom {
         border-style: solid;
+        border-color: #8d99ae; 
         display: flex;
         justify-content: center;
-        padding: 1%
+        padding: 1%;
     }
 
     .left-panel {

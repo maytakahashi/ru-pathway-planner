@@ -6,7 +6,6 @@
         <h3>External Links</h3>
         <ul>
             <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Thank us on Venmo</a></li>
-            <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Send us your mom's number</a></li>
             <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Report bugs</a></li>
         </ul>
     </nav>
@@ -16,10 +15,11 @@
     main {
         margin: 5%;
         padding: 5%;
-        border-style: solid;
+        background-color: #c3d7de;
     }
     h3 {
         margin: 0% 0% 7%;
+        color: #2B2D42;
     }
     ul {
         margin: 0%;
@@ -31,6 +31,6 @@
     }
     ul li a{
         text-decoration: none;
-        color: #ffffff;
+        color: #54647f;
     }
 </style>

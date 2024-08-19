@@ -98,11 +98,10 @@
 
 <style>
     table {
-        color: white;
-        border: solid 1px;
         margin: 2%;
         width: 95%;
         padding: 2%;
+        background-color: #c3d7de;
     }
 
     tr {
@@ -113,9 +112,11 @@
 
     th{
         margin: 0% 0% 1%;
+        color: #2B2D42;
     }
     td{
         margin: .5% 0%;
+        color: #54647f;
     }
     td, th{
         flex: 1;

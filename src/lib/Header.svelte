@@ -6,7 +6,7 @@
 <main>
     <nav>
         <div id="logo">
-            <img src="Png.png" alt="LOGO" />
+            <img src="full-logo.png" alt="LOGO" />
         </div>
         Page: {selectedPage}
         <ul class="links">
@@ -18,23 +18,24 @@
 
 <style>
     nav {
-        padding: 0% 1%
+        padding: 0% 1%;
     }
-    #logo img{
+
+    #logo img {
         height: 80px;
-        width: 130px;
-        border-style: solid;
+        border-color: #2b2d42; 
         padding: 10px;
         margin: 1% 0% 0%;
-        background-color: white;
     }
+
     .links {
-        border: solid;
+        /* border-style: solid #8d99ae; */
         display: flex;
         justify-content: center;
         gap: 10%;
         padding: 1%;
         list-style-type: none;
+        background-color: #EF233C;
     }
 
     .links button {
@@ -43,16 +44,15 @@
         background: none;
         font-size: 1em;
         cursor: pointer;
+        color: #edf2f4;
     }
-    .bold{
+
+    .bold {
         font-weight: bold;
-        color: #ffffff;
     }
-    .reg{
-        color: #ffffff;
-    }
+
     button:hover {
         text-decoration: underline;
-        color: #9cd772;
+        color: #ffa1c2; 
     }
 </style>
