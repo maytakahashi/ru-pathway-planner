@@ -8,9 +8,9 @@
 </script>
 
 <main>
-    <div class="top">
+    <header>
         <Header/>
-    </div>
+    </header>
     <div class="bottom">
         <div class="left-panel">
             <Table />
@@ -32,7 +32,7 @@
         color: #edf2f4; 
     }
 
-    .top {
+    header {
         border-style: solid;
         border-color: #8d99ae;
     }
