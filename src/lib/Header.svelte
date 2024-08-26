@@ -35,7 +35,7 @@
         gap: 10%;
         padding: 1%;
         list-style-type: none;
-        background-color: #EF233C;
+        background-color: #e84255;
     }
 
     .links button {
@@ -53,6 +53,6 @@
 
     button:hover {
         text-decoration: underline;
-        color: #ffa1c2; 
+        color: #f3bed0; 
     }
 </style>
